@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 -   .net tips and tricks
 
 -->
-[![Dinith Jayabodhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nadundesilva&count_private=true&show_icons=true&include_all_commits=true&theme=blueberry&custom_title=GitHub%20Stats)](https://github.com/dinith72)
+[![Dinith Jayabodhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dinith72&count_private=true&show_icons=true&include_all_commits=true&theme=blueberry&custom_title=GitHub%20Stats)](https://github.com/dinith72)
